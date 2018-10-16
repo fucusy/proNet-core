@@ -12,7 +12,7 @@
 
 This is a C++ framework for variant **weighted** network embedding techniques. We currently release the command line interface for following models:
 - DeepWalk
-  - [DeepWalk: online learning of social representations](http://dl.acm.org/citation.cfm?id=2623732)
+  - [DeepWalk: online learning of social representations](https://arxiv.org/abs/1403.6652)
 - Walklets
   - [Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings](https://arxiv.org/abs/1605.02115)
 - LINE(**L**arge-scale **I**nformation **N**etwork **E**mbedding)
