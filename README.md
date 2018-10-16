@@ -11,12 +11,13 @@
 <img src="http://cherry.cs.nccu.edu.tw/~g10018/portfolio/images/pronet.png" width="480">
 
 This is a C++ framework for variant **weighted** network embedding techniques. We currently release the command line interface for following models:
-- DeepWalk
+- DeepWalk 2014
   - [DeepWalk: online learning of social representations](https://arxiv.org/abs/1403.6652)
-- Walklets
-  - [Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings](https://arxiv.org/abs/1605.02115)
-- LINE(**L**arge-scale **I**nformation **N**etwork **E**mbedding)
+- LINE(**L**arge-scale **I**nformation **N**etwork **E**mbedding) 2015
   - [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578) 
+- Walklets 2016, work from DeepWalk Team
+  - [Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings](https://arxiv.org/abs/1605.02115)
+
 - HPE (**H**eterogeneous **P**reference **E**mbedding)
   - [Query-based Music Recommendations via Preference Embedding](http://dl.acm.org/citation.cfm?id=2959169)
 - APP (**A**symmetric **P**roximity **P**reserving graph embedding)
